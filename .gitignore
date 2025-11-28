@@ -1,4 +1,25 @@
+# Node modules
 node_modules/
-temp/
+
+# Logs
 *.log
+logs/
+
+# Temporary folders
+temp/
+
+# OS metadata
 .DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor metadata
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+
