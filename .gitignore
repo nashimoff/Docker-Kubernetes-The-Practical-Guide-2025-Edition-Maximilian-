@@ -18,7 +18,7 @@ desktop.ini
 .idea/
 
 # Environment files
-.env
+#.env
 .env.local
 .env.*.local
 
